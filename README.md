@@ -46,7 +46,7 @@ If you use this implementation in your research, please cite the original paper 
   title = {Research Paper Implementations},
   author = {Bassam Ahmad},
   year = {2025},
-  howpublished = {\url{https://github.com/yourusername/research-paper-implementations}},
+  howpublished = {\url{https://github.com/BassamXYZ/pepers-implement}},
 }
 ```
 
